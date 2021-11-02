@@ -9,14 +9,14 @@ Ini Adalah Sebuah Tools Crack Akun Instagram! ,Tolong Gunakan Dengan Bijak Janga
 $ pkg update && pkg upgrade
 $ pkg install python2
 $ pkg install git
-$ git clone https://github.com/Yayan-XD/ymbf
+$ git clone https://github.com/Dru-XD/ighe
 $ pip2 install requests bs4
 $ pip2 install futures
 ```
 #### Run script
 ```bash
-$ cd ymbf
-$ python2 ymbf.py
+$ cd ighe
+$ python2 insta.pyc
 ```
 #### MY SOCIAL MEDIA
 
